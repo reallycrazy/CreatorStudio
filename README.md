@@ -173,6 +173,6 @@ npm run dist:win   # arma la versión de Windows
 
 <div align="center">
 
-Hecho por **Abelardo Vicencio** · © 2026 · Todos los derechos reservados
+Hecho por **ReallyCrazy** · © 2026 · Todos los derechos reservados
 
 </div>
